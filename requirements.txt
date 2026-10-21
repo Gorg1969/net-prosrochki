@@ -1,0 +1,4 @@
+aiomax2
+pandas
+openpyxl
+python-dotenv
